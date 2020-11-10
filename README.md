@@ -3,7 +3,7 @@
 Public info about the MIMY lab in Groningen
 
 
-Day   |Timespan   |Week|Activity                                                 |URL
+Day   |Timespan   |Week|Activity                                                 |URL [3]
 ------|-----------|----|---------------------------------------------------------|------------------------------------
 Monday| 9:00-10:00|Odd |Cell Biology [1]                                         |https://meet.google.com/???-????-dbq
 Monday| 9:00-10:00|Even|MIMY meeting [1]                                         |https://meet.google.com/???-????-cez
@@ -15,6 +15,7 @@ Friday|16:00-late |All |MIMY online borrel                                      
  * [2] 
     * Odd week: Femmy, Frans, Harry, Maxim, Richel
     * Even week: Alexine, Deepti, Myrthe, Sjors
+ * [3] Broken URLs [for a reason](https://youtu.be/dQw4w9WgXcQ)
 
 ## Formal presentation schedule
 
