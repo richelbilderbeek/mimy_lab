@@ -20,7 +20,7 @@ Friday|16:00-late |All |MIMY online borrel                                      
 Day       |Week|Present
 ----------|----|----------
 2021-01-04| 1  |Geert van den Bogaart
-2021-01-11| 2  |Richel Bilderbeel & Harry Warner
+2021-01-11| 2  |Richel Bilderbeek & Harry Warner
 2021-01-18| 3  |Panos Athanasopoulos
 2021-01-25| 4  |Frans Bianchi & Alexine de Wit
 2021-02-01| 5  |Richel Bilderbeek
