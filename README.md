@@ -4,7 +4,7 @@ Public info about the MIMY lab in Groningen
 
 Day   |Timespan   |Week|Activity                                                 |URL [3]
 ------|-----------|----|---------------------------------------------------------|------------------------------------
-Monday| 9:00-10:00|Odd |Cell Biology [1]                                         |https://meet.google.com/???-????-dbq or meet.google.com/???-????-bdi
+Monday| 9:00-10:00|Odd |Cell Biology [1]                                         |https://meet.google.com/???-????-dbq
 Monday| 9:00-10:00|Even|MIMY meeting [1]                                         |https://meet.google.com/???-????-cez
 Monday|10:00-11:00|All |Informal MIMY meeting [2]                                |https://meet.google.com/???-????-mzm
 Friday|16:00-late |All |MIMY online borrel                                       |https://meet.google.com/???-????-cez
