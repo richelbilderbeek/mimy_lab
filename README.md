@@ -4,7 +4,7 @@ Public info about the MOLIMM lab in Groningen
 
 Day   |Timespan   |Week|Activity                                                 |URL [3]
 ------|-----------|----|---------------------------------------------------------|------------------------------------
-Monday| 9:00-10:00|Odd |Cell Biology [1]                                         |https://meet.google.com/???-????-dbq
+Monday| 9:00-10:00|Odd |Cell Biology [1]                                         |https://meet.google.com/???-????-bdi
 Monday| 9:00-10:00|Even|MOLIMM meeting [1]                                       |https://meet.google.com/???-????-cez
 Monday|10:00-11:00|All |Informal MOLIMM meeting [2]                              |https://meet.google.com/???-????-mzm
 Friday|16:00-late |All |MOLIMM online borrel                                     |https://meet.google.com/???-????-cez
