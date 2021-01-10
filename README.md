@@ -23,7 +23,6 @@ Friday|16:00-late |All |MOLIMM online borrel                                    
 
 Day       |Week|Present
 ----------|----|-------------------------------------------
-2021-01-04| 1  |Geert van den Bogaart
 2021-01-11| 2  |Richel Bilderbeek & Harry Warner
 2021-01-18| 3  |Panos Athanasopoulos
 2021-01-25| 4  |Frans Bianchi & Alexine de Wit
@@ -48,4 +47,15 @@ Day       |Week|Present
  * [1] at this day, there would be a cell bio meeting.
        however, it appears that these move to a week later,
        to the even weeks
+
+## Past presentations
+
+Day       |Week|Present
+----------|----|-------------------------------------------
+2020-11-16|47  |Renate Jansen
+2020-11-23|48  |Femmy and Peter
+2020-11-30|49  |Ida van der Kleij
+2020-12-07|50  |Deepti and Elke
+2020-12-14|51  |Arjen Kortholt
+2021-01-04| 1  |Geert van den Bogaart
 
