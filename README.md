@@ -1,6 +1,9 @@
 # molimm_lab
 
-Public info about the MOLIMM lab in Groningen
+Public info about the MOLIMM lab in Groningen.
+
+See [the private MOLIMM repo](https://github.com/richelbilderbeek/molimm_lab_private)
+for private information, such as the full URLs of the meetings.
 
 Day   |Timespan   |Week|Activity                                                 |URL [3]
 ------|-----------|----|---------------------------------------------------------|------------------------------------
@@ -13,7 +16,8 @@ Friday|16:00-late |All |MOLIMM online borrel                                    
  * [2] 
     * Odd week: Femmy, Frans, Harry, Maxim, Richel
     * Even week: Alexine, Deepti, Myrthe, Sjors
- * [3] Broken URLs [for a reason](https://youtu.be/dQw4w9WgXcQ)
+ * [3] See [the private MOLIMM repo](https://github.com/richelbilderbeek/molimm_lab_private)
+   for the full URLs
 
 ## Formal presentation schedule
 
