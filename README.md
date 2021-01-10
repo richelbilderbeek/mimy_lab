@@ -50,12 +50,29 @@ Day       |Week|Present
 
 ## Past presentations
 
+### 2021
+
 Day       |Week|Present
 ----------|----|-------------------------------------------
+2021-01-04| 1  |Geert van den Bogaart
+
+### 2020
+
+This list is incomplete.
+
+Day       |Week|Present
+----------|----|-------------------------------------------
+2020-08-10|?   |Ella Peters
+2020-08-17|?   |Richel Bilderbeek
+2020-08-24|?   |Natalia Revelo + Harry Warner
+2020-08-31|?   |Alexine de wit + Frans Bianchi
+2020-09-07|?   |Maxim Baranov + Sjors Maassen
+2020-09-14|?   |Femmy Stempels + Peter Linders
+2020-09-21|?   |Deepti Dabral + Elke Muntjewerff
+2020-09-28|?   |Mythe Frans
 2020-11-16|47  |Renate Jansen
 2020-11-23|48  |Femmy and Peter
 2020-11-30|49  |Ida van der Kleij
 2020-12-07|50  |Deepti and Elke
 2020-12-14|51  |Arjen Kortholt
-2021-01-04| 1  |Geert van den Bogaart
 
