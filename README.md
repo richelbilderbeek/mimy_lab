@@ -26,8 +26,8 @@ Day       |Week|Present
 ----------|----|-------------------------------------------
 2021-01-11| 2  |Richel Bilderbeek & Harry Warner
 2021-01-18| 3  |Panos Athanasopoulos
-2021-01-25| 4  |Frans Bianchi & Alexine de Wit
 .         | .  |10:00-11:15: Jez Carlton, meet.google.com/???-????-nvn 
+2021-01-25| 4  |Frans Bianchi & Alexine de Wit
 2021-02-01| 5  |Richel Bilderbeek
 2021-02-08| 6  |Sjors Maassen & Maxim Baranov
 2021-02-15| 7  |Marc Pedersen
