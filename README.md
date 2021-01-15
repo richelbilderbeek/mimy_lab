@@ -3,7 +3,8 @@
 Public info about the MOLIMM lab in Groningen.
 
 See [the private MOLIMM repo](https://github.com/richelbilderbeek/molimm_lab_private)
-for private information, such as the full URLs of the meetings.
+for private information, such as the full URLs of the meetings. You do need to be
+a Collaborator to access that private repo. Ask @richelbilderbeek for access :+1:
 
 Day   |Timespan   |Week|Activity                                                 |URL [3]
 ------|-----------|----|---------------------------------------------------------|------------------------------------
