@@ -24,9 +24,9 @@ Friday|16:00-late |All |MOLIMM online borrel                                    
 
 Day       |Week|Present
 ----------|----|-------------------------------------------
-2021-01-25| 4  |Frans Bianchi & Alexine de Wit
 2021-02-01| 5  |Richel Bilderbeek
-2021-02-08| 6  |Sjors Maassen & Maxim Baranov
+2021-02-08| 6  |Sjors Maassen & Maxim Baranov 
+2021-02-08| .  |Hugo Markus (at 10:00)
 2021-02-15| 7  |Marc Pedersen
 2021-02-22| 8  |Femmy Stempels & Peter Linders
 2021-03-01| 9  |Laura Schippers
@@ -56,6 +56,7 @@ Day       |Week|Present
 2021-01-11| 2  |Richel Bilderbeek & Harry Warner
 2021-01-18| 3  |Panos Athanasopoulos
 .         | .  |10:00-11:15: Jez Carlton, meet.google.com/???-????-nvn 
+2021-01-25| 4  |Frans Bianchi & Alexine de Wit
 
 ### 2020
 
