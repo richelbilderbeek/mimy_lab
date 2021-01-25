@@ -15,8 +15,8 @@ Friday|16:00-late |All |MOLIMM online borrel                                    
 
  * [1] See schedule below
  * [2] 
-    * Odd week: Femmy, Frans, Harry, Maxim, Richel
-    * Even week: Alexine, Deepti, Myrthe, Sjors
+    * Odd week: Deepti, Femmy, Frans, Harry, Maxim, Richel
+    * Even week: Alexine, Myrthe, Sjors
  * [3] See [the private MOLIMM repo](https://github.com/richelbilderbeek/molimm_lab_private)
    for the full URLs
 
