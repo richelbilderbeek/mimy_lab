@@ -27,6 +27,7 @@ Day       |Week|Present
 2021-02-08| 6  |NOT Sjors Maassen & NOT Maxim Baranov, but ...? 
 2021-02-08| .  |Hugo Markus (at 10:00)
 2021-02-15| 7  |Marc Pedersen
+2021-02-15| .  |Dave Bryant (at 10:00)
 2021-02-22| 8  |Femmy Stempels & Peter Linders
 2021-03-01| 9  |Laura Schippers
 2021-03-08|10  |Deepti Dabral & Elke Muntjewerff
