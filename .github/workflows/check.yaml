@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: check
-        run: wget -q https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf ; rm Complete_thesis.pdf
+        run: wget -q https://pure.rug.nl/ws/files/132028374/Complete_thesis.pdf ; rm Complete_thesis.pdf
 
